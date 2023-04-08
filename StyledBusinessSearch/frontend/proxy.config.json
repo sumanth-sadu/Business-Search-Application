@@ -1,8 +1,0 @@
-{
-    "/api/*": {
-      "target": "https://myfinalsecondwt-assignv3.wl.r.appspot.com/",
-      "pathRewrite" : {
-        "^/api" : ""
-      }
-    }
-}
